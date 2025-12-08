@@ -1,4 +1,4 @@
-ensfree Tissue Section Reconstruction Code
+Lensfree Tissue Section Reconstruction Code
 
 This repository contains the MATLAB code and utility functions used to reconstruct quantitative phase images from the raw multi-angle lensfree microscopy datasets described in our manuscript.
 

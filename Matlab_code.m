@@ -191,7 +191,10 @@ numFigures = numel(figHandles);
 % Initial visualization of phase
 figure
 MSBP_progview(angle(reconobj), numFigures+1, plot_range, "Reconstruction")
-caxis([-0.6 1.2])
+caxis([-0.2 1.6]); % color axis used to visualize cryostat mouse kidney section (Main-text figures 5 and 6)
+caxis([-0.4 1.2]); % color axis used to visualize cryostat zebrafish sections (Main-text figure 7)
+caxis([-0.5 1.3]); % color axis used to visualize cryostat mouse embryo section (Main-text figure 8)
+caxis([-0.6 1.2]); % color axis used to visualize FFPE sections (Supplementary figures)
 pause(0.01);
 
 % -------------------------------------------------------------------------
@@ -668,4 +671,5 @@ colormap gray;
 title(titletext);
 %caxis(plot_range);
 colorbar
+
 end

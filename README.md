@@ -3,7 +3,7 @@
 This repository contains the MATLAB and Python (JAX) code used to reconstruct quantitative phase images from raw multi-angle lensfree microscopy datasets described in our manuscript.
 
 Please cite our manuscript if you use this code:
-Sibi Chakravarthy Shanmugavel, Vindya Senanayake, Donghwa Suh, Jeffrey M. Gross, Shwetadwip Chowdhury, "Maskless and on-chip LED-array microscope with spatially-varying angle calibration for centimeter-scale phase imaging," [bioRxiv 2025.09.05.674268](https://www.biorxiv.org/content/10.1101/2025.09.05.674268v1)
+*Sibi Chakravarthy Shanmugavel, Vindya Senanayake, Donghwa Suh, Jeffrey M. Gross, Shwetadwip Chowdhury, "Maskless and on-chip LED-array microscope with spatially-varying angle calibration for centimeter-scale phase imaging,"* [bioRxiv 2025.09.05.674268](https://www.biorxiv.org/content/10.1101/2025.09.05.674268v1)
 
 ---
 
